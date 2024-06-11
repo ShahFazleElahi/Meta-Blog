@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-base-regular: "Plus Jakarta Sans";
+  --body-b4-medium: "Work Sans";
+  --body-text-sm-14-regular: Inter;
+  --article-lg-regular: "Source Serif Pro";
+
+  /* font sizes */
+  --text-base-regular-size: 16px;
+  --heading-h4-semibold-size: 20px;
+  --body-b5-regular-size: 14px;
+  --text-lg-semi-bold-size: 18px;
+  --heading-h3-semibold-size: 24px;
+  --font-size-lgi: 19px;
+  --heading-h1-semibold-size: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+
+  /* Colors */
+  --white: #fff;
+  --secondary-50: #f6f6f7;
+  --secondary-1001: #f4f4f5;
+  --secondary-100: #e8e8ea;
+  --secondary-200: #dcdddf;
+  --secondary-600: #3b3c4a;
+  --color-black: #000;
+  --secondary-800: #181a2a;
+  --secondary-900: #141624;
+  --theme-1-primary: #4b6bfb;
+  --color-mediumslateblue-100: rgba(75, 107, 251, 0.05);
+  --secondary-500: #696a75;
+  --secondary-4001: #a1a1aa;
+  --secondary-400: #97989f;
+
+  /* Gaps */
+  --gap-45xl: 64px;
+  --gap-base: 16px;
+  --gap-13xl: 32px;
+  --gap-xl: 20px;
+  --gap-base-5: 15.5px;
+  --gap-3xs: 10px;
+  --gap-11xs: 2px;
+  --gap-11xl: 30px;
+  --gap-mini: 15px;
+  --gap-5xs: 8px;
+  --gap-xs: 12px;
+  --gap-9xs: 4px;
+  --gap-5xl: 24px;
+  --gap-61xl: 80px;
+  --gap-21xl: 40px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-43xl: 62px;
+  --padding-xl: 20px;
+  --padding-21xl: 40px;
+  --padding-11xl: 30px;
+  --padding-mini: 15px;
+  --padding-10xs: 3px;
+  --padding-17xl: 36px;
+  --padding-xs: 12px;
+  --padding-3xs: 10px;
+  --padding-99xl: 118px;
+  --padding-40xl: 59px;
+  --padding-4xs: 9px;
+  --padding-20xl: 39px;
+  --padding-19xl: 38px;
+  --padding-sm: 14px;
+  --padding-5xs: 8px;
+  --padding-9xs: 4px;
+  --padding-3xl: 22px;
+  --padding-11xs: 2px;
+  --padding-8xs: 5px;
+  --padding-base: 16px;
+  --padding-7xs: 6px;
+
+  /* Border radiuses */
+  --br-xs: 12px;
+  --br-7xs: 6px;
+  --br-9xl: 28px;
+  --br-81xl: 100px;
+  --br-8xs: 5px;
+
+  /* Effects */
+  --shadow-md: 0px 12px 24px -6px rgba(24, 26, 42, 0.12);
+}
